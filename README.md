@@ -67,14 +67,14 @@ Acceptance Testing – Ensures the software meets user and business requirements
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt Engineering & Its Importance
+Prompt Engineering and Its Importance
 Prompt engineering is the process of crafting effective inputs to guide AI models in generating accurate and relevant responses. It plays a crucial role in maximizing AI’s potential, ensuring clarity, reducing ambiguity, and improving output quality. A well-designed prompt leads to better efficiency, whether in creative writing, problem-solving, or automation tasks
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt 
 Write about space.  
 
-*Improved Prompt: 
+Improved Prompt: 
 Describe the solar system’s planets, their unique features, and how they differ from each other.
 
 Why is This Better?
